@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="org_color_back">#E4A024</color>
+    <color name="org_color_txt">#362608</color>
+    <color name="blue_color_back">#369AB2</color>
+    <color name="blue_color_txt">#FFFF</color>
+    <color name="blue_dark_color_back">#1A4C63</color>
+    <color name="blue_dark_color_txt">#FFFF</color>
+    <color name="app_back">#f3f3f3</color>
+</resources>

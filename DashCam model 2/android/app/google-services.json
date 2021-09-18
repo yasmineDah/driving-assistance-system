@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362686091212",
+    "firebase_url": "https://com-icar-dashcam.firebaseio.com",
+    "project_id": "com-icar-dashcam",
+    "storage_bucket": "com-icar-dashcam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362686091212:android:9be8246b96ec493d329769",
+        "android_client_info": {
+          "package_name": "com.icar.dashcam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362686091212-uv8s6lbcn0dbdvu6abhoujflj8glppm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icar.dashcam",
+            "certificate_hash": "591c6c88aaf4d0281fd9c1eb621b67ae089be366"
+          }
+        },
+        {
+          "client_id": "362686091212-u5vsoq5a128r0d98c7jrk42hk4qfckd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQSGZOOiZ2N4jrukHMTXdkuIAAYb1IihA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362686091212-u5vsoq5a128r0d98c7jrk42hk4qfckd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

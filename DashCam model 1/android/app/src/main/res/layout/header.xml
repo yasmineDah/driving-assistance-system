@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center_horizontal"
+    android:background="#F3F3F3"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout
+    style="@style/ThemeOverlay.AppCompat.Dark"
+    android:layout_width="120dp"
+    android:layout_height="120dp"
+    android:layout_marginTop="35dp"
+    android:background="@drawable/logo"
+    android:layout_marginBottom="30dp"
+    android:layout_gravity="center_horizontal"
+ >
+</LinearLayout>
+</RelativeLayout>

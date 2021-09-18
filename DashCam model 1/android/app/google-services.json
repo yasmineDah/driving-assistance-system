@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869332337612",
+    "firebase_url": "https://dashcam-172d1.firebaseio.com",
+    "project_id": "dashcam-172d1",
+    "storage_bucket": "dashcam-172d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869332337612:android:f1afeaec6cc0bfa64c1369",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869332337612-4sj5sgjoilfhdr1mvq7p9btmijo9bvpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tensorflow.lite.examples.detection",
+            "certificate_hash": "591c6c88aaf4d0281fd9c1eb621b67ae089be366"
+          }
+        },
+        {
+          "client_id": "869332337612-92vh96no16rac516tkkhspqk8toh5k81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9PggamNu9prJ_Z-D_V30DggTdeCDxvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869332337612-92vh96no16rac516tkkhspqk8toh5k81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
